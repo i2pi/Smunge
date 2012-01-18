@@ -1,0 +1,13 @@
+dn: dc=i2pi,dc=com
+objectClass: organization
+objectClass: dcObject
+o: i2pi
+dc: i2pi
+
+dn: uid=username,dc=i2pi,dc=com
+objectClass: inetorgperson
+uid: username
+cn: Babs Streisand
+sn: Streisand
+mail: pop.i2pi.com
+userpassword: {SSHA}GJSVRIS3pBiSYqiUWX8a1sFA4kP3WbBj
